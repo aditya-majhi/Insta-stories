@@ -9,7 +9,7 @@ function App() {
   const [activeStory, setActiveStory] = useState(0);
 
   useEffect(() => {
-    fetch("/src/data/stories.json")
+    fetch("/stories.json")
       .then((res) => res.json())
       .then(setProfiles);
   }, []);
