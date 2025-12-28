@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "username": "yourname",
+    "avatar": "https://i.pravatar.cc/100?img=1",
+    "stories": [
+      { "id": 1, "image": "https://picsum.photos/id/1015/800/1400" },
+      { "id": 2, "image": "https://picsum.photos/id/1016/800/1400" }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "alex",
+    "avatar": "https://i.pravatar.cc/100?img=2",
+    "stories": [
+      { "id": 1, "image": "https://picsum.photos/id/1018/800/1400" },
+      { "id": 2, "image": "https://picsum.photos/id/1020/800/1400" },
+      { "id": 3, "image": "https://picsum.photos/id/1024/800/1400" }
+    ]
+  }
+]
